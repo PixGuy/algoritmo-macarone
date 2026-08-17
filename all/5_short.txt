@@ -1,0 +1,23 @@
+Testando 'npP4 contra 'npPH | 538839159
+Testando 'npP5 contra 'npPH | 538839160
+Testando 'npP6 contra 'npPH | 538839161
+Testando 'npP7 contra 'npPH | 538839162
+Testando 'npP8 contra 'npPH | 538839163
+Testando 'npP9 contra 'npPH | 538839164
+Testando 'npP: contra 'npPH | 538839165
+Testando 'npP; contra 'npPH | 538839166
+Testando 'npP< contra 'npPH | 538839167
+Testando 'npP= contra 'npPH | 538839168
+Testando 'npP> contra 'npPH | 538839169
+Testando 'npP? contra 'npPH | 538839170
+Testando 'npP@ contra 'npPH | 538839171
+Testando 'npPA contra 'npPH | 538839172
+Testando 'npPB contra 'npPH | 538839173
+Testando 'npPC contra 'npPH | 538839174
+Testando 'npPD contra 'npPH | 538839175
+Testando 'npPE contra 'npPH | 538839176
+Testando 'npPF contra 'npPH | 538839177
+Testando 'npPG contra 'npPH | 538839178
+Testando 'npPH contra 'npPH | 538839179
+A senha foi quebrada!
+576.21s

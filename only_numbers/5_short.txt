@@ -1,0 +1,20 @@
+Testando 69647 contra 69662 | 77387
+Testando 69648 contra 69662 | 77388
+Testando 69649 contra 69662 | 77389
+Testando 6965 contra 69662 | 77390
+Testando 69650 contra 69662 | 77391
+Testando 69651 contra 69662 | 77392
+Testando 69652 contra 69662 | 77393
+Testando 69653 contra 69662 | 77394
+Testando 69654 contra 69662 | 77395
+Testando 69655 contra 69662 | 77396
+Testando 69656 contra 69662 | 77397
+Testando 69657 contra 69662 | 77398
+Testando 69658 contra 69662 | 77399
+Testando 69659 contra 69662 | 77400
+Testando 6966 contra 69662 | 77401
+Testando 69660 contra 69662 | 77402
+Testando 69661 contra 69662 | 77403
+Testando 69662 contra 69662 | 77404
+A senha foi quebrada!
+0.01s

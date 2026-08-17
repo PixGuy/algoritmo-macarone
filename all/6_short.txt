@@ -1,0 +1,24 @@
+Testando .n'_l[ contra .n'_lp | 606354999836
+Testando .n'_l\ contra .n'_lp | 606354999837
+Testando .n'_l] contra .n'_lp | 606354999838
+Testando .n'_l^ contra .n'_lp | 606354999839
+Testando .n'_l_ contra .n'_lp | 606354999840
+Testando .n'_l` contra .n'_lp | 606354999841
+Testando .n'_la contra .n'_lp | 606354999842
+Testando .n'_lb contra .n'_lp | 606354999843
+Testando .n'_lc contra .n'_lp | 606354999844
+Testando .n'_ld contra .n'_lp | 606354999845
+Testando .n'_le contra .n'_lp | 606354999846
+Testando .n'_lf contra .n'_lp | 606354999847
+Testando .n'_lg contra .n'_lp | 606354999848
+Testando .n'_lh contra .n'_lp | 606354999849
+Testando .n'_li contra .n'_lp | 606354999850
+Testando .n'_lj contra .n'_lp | 606354999851
+Testando .n'_lk contra .n'_lp | 606354999852
+Testando .n'_ll contra .n'_lp | 606354999853
+Testando .n'_lm contra .n'_lp | 606354999854
+Testando .n'_ln contra .n'_lp | 606354999855
+Testando .n'_lo contra .n'_lp | 606354999856
+Testando .n'_lp contra .n'_lp | 606354999857
+A senha foi quebrada!
+64827s

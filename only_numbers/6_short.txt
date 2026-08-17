@@ -1,0 +1,20 @@
+Testando 29104 contra 291055 | 323381
+Testando 291040 contra 291055 | 323382
+Testando 291041 contra 291055 | 323383
+Testando 291042 contra 291055 | 323384
+Testando 291043 contra 291055 | 323385
+Testando 291044 contra 291055 | 323386
+Testando 291045 contra 291055 | 323387
+Testando 291046 contra 291055 | 323388
+Testando 291047 contra 291055 | 323389
+Testando 291048 contra 291055 | 323390
+Testando 291049 contra 291055 | 323391
+Testando 29105 contra 291055 | 323392
+Testando 291050 contra 291055 | 323393
+Testando 291051 contra 291055 | 323394
+Testando 291052 contra 291055 | 323395
+Testando 291053 contra 291055 | 323396
+Testando 291054 contra 291055 | 323397
+Testando 291055 contra 291055 | 323398
+A senha foi quebrada!
+0.05s

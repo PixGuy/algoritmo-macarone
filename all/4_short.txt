@@ -1,0 +1,11 @@
+Testando .PyW contra .Py_ | 11341870
+Testando .PyX contra .Py_ | 11341871
+Testando .PyY contra .Py_ | 11341872
+Testando .PyZ contra .Py_ | 11341873
+Testando .Py[ contra .Py_ | 11341874
+Testando .Py\ contra .Py_ | 11341875
+Testando .Py] contra .Py_ | 11341876
+Testando .Py^ contra .Py_ | 11341877
+Testando .Py_ contra .Py_ | 11341878
+A senha foi quebrada!
+0.98s

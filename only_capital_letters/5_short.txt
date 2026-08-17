@@ -1,0 +1,20 @@
+Testando LOSEB contra LOSES | 5496479
+Testando LOSEC contra LOSES | 5496480
+Testando LOSED contra LOSES | 5496481
+Testando LOSEE contra LOSES | 5496482
+Testando LOSEF contra LOSES | 5496483
+Testando LOSEG contra LOSES | 5496484
+Testando LOSEH contra LOSES | 5496485
+Testando LOSEI contra LOSES | 5496486
+Testando LOSEJ contra LOSES | 5496487
+Testando LOSEK contra LOSES | 5496488
+Testando LOSEL contra LOSES | 5496489
+Testando LOSEM contra LOSES | 5496490
+Testando LOSEN contra LOSES | 5496491
+Testando LOSEO contra LOSES | 5496492
+Testando LOSEP contra LOSES | 5496493
+Testando LOSEQ contra LOSES | 5496494
+Testando LOSER contra LOSES | 5496495
+Testando LOSES contra LOSES | 5496496
+A senha foi quebrada!
+0.49s

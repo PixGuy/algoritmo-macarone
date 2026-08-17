@@ -1,0 +1,20 @@
+Testando ARGLRO contra ARGLSE | 8197221
+Testando ARGLRP contra ARGLSE | 8197222
+Testando ARGLRQ contra ARGLSE | 8197223
+Testando ARGLRR contra ARGLSE | 8197224
+Testando ARGLRS contra ARGLSE | 8197225
+Testando ARGLRT contra ARGLSE | 8197226
+Testando ARGLRU contra ARGLSE | 8197227
+Testando ARGLRV contra ARGLSE | 8197228
+Testando ARGLRW contra ARGLSE | 8197229
+Testando ARGLRX contra ARGLSE | 8197230
+Testando ARGLRY contra ARGLSE | 8197231
+Testando ARGLRZ contra ARGLSE | 8197232
+Testando ARGLS contra ARGLSE | 8197233
+Testando ARGLSA contra ARGLSE | 8197234
+Testando ARGLSB contra ARGLSE | 8197235
+Testando ARGLSC contra ARGLSE | 8197236
+Testando ARGLSD contra ARGLSE | 8197237
+Testando ARGLSE contra ARGLSE | 8197238
+A senha foi quebrada!
+0.74s

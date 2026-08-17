@@ -1,0 +1,20 @@
+Testando 510 contra 526 | 569
+Testando 511 contra 526 | 570
+Testando 512 contra 526 | 571
+Testando 513 contra 526 | 572
+Testando 514 contra 526 | 573
+Testando 515 contra 526 | 574
+Testando 516 contra 526 | 575
+Testando 517 contra 526 | 576
+Testando 518 contra 526 | 577
+Testando 519 contra 526 | 578
+Testando 52 contra 526 | 579
+Testando 520 contra 526 | 580
+Testando 521 contra 526 | 581
+Testando 522 contra 526 | 582
+Testando 523 contra 526 | 583
+Testando 524 contra 526 | 584
+Testando 525 contra 526 | 585
+Testando 526 contra 526 | 586
+A senha foi quebrada!
+0.00s

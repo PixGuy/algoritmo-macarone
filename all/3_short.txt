@@ -1,0 +1,20 @@
+Testando PsV contra Psg | 427603
+Testando PsW contra Psg | 427604
+Testando PsX contra Psg | 427605
+Testando PsY contra Psg | 427606
+Testando PsZ contra Psg | 427607
+Testando Ps[ contra Psg | 427608
+Testando Ps\ contra Psg | 427609
+Testando Ps] contra Psg | 427610
+Testando Ps^ contra Psg | 427611
+Testando Ps_ contra Psg | 427612
+Testando Ps` contra Psg | 427613
+Testando Psa contra Psg | 427614
+Testando Psb contra Psg | 427615
+Testando Psc contra Psg | 427616
+Testando Psd contra Psg | 427617
+Testando Pse contra Psg | 427618
+Testando Psf contra Psg | 427619
+Testando Psg contra Psg | 427620
+A senha foi quebrada!
+0.06s

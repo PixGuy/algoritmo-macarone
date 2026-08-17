@@ -1,0 +1,20 @@
+Testando 6087 contra 6101 | 6765
+Testando 6088 contra 6101 | 6766
+Testando 6089 contra 6101 | 6767
+Testando 609 contra 6101 | 6768
+Testando 6090 contra 6101 | 6769
+Testando 6091 contra 6101 | 6770
+Testando 6092 contra 6101 | 6771
+Testando 6093 contra 6101 | 6772
+Testando 6094 contra 6101 | 6773
+Testando 6095 contra 6101 | 6774
+Testando 6096 contra 6101 | 6775
+Testando 6097 contra 6101 | 6776
+Testando 6098 contra 6101 | 6777
+Testando 6099 contra 6101 | 6778
+Testando 61 contra 6101 | 6779
+Testando 610 contra 6101 | 6780
+Testando 6100 contra 6101 | 6781
+Testando 6101 contra 6101 | 6782
+A senha foi quebrada!
+0.00s

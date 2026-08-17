@@ -1,0 +1,20 @@
+Testando bqz contra brp | 1163
+Testando br contra brp | 1164
+Testando bra contra brp | 1165
+Testando brb contra brp | 1166
+Testando brc contra brp | 1167
+Testando brd contra brp | 1168
+Testando bre contra brp | 1169
+Testando brf contra brp | 1170
+Testando brg contra brp | 1171
+Testando brh contra brp | 1172
+Testando bri contra brp | 1173
+Testando brj contra brp | 1174
+Testando brk contra brp | 1175
+Testando brl contra brp | 1176
+Testando brm contra brp | 1177
+Testando brn contra brp | 1178
+Testando bro contra brp | 1179
+Testando brp contra brp | 1180
+A senha foi quebrada!
+0.00s
